@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "kind": "noalingua-conversations",
+  "id": "real-life-300",
+  "revision": 1,
+  "title": "300 Real-Life Conversations",
+  "files": {
+    "en": {
+      "path": "sets/en.json",
+      "sha256": "25646a25506e041d8f6d4289c5eee00a86946906c3d5d08f818503ced362e7c7",
+      "bytes": 291280,
+      "state": "ready"
+    },
+    "es": {
+      "path": "sets/es.json",
+      "sha256": "4d04abcdf17ae917e125e8fef3be18605c4179583aa0e6737990d0a4d926fe59",
+      "bytes": 538124,
+      "state": "ready"
+    },
+    "fr": {
+      "path": "sets/fr.json",
+      "sha256": "91b90b1529bff68009efb39d6c12d2ae431076cfd8c1e255d1a8b6c24462531c",
+      "bytes": 547797,
+      "state": "ready"
+    },
+    "de": {
+      "path": "sets/de.json",
+      "sha256": "c8af28a7cbbe55e9cf8d1f925a1059f8422cb57e15372b17cda01120cd93cb6d",
+      "bytes": 541271,
+      "state": "ready"
+    },
+    "it": {
+      "path": "sets/it.json",
+      "sha256": "41d6e4cfbbc7edc4fe6ed5354c9dfa7dbe53eb22a5a4d61984c8538db491b23d",
+      "bytes": 533251,
+      "state": "ready"
+    },
+    "pt": {
+      "path": "sets/pt.json",
+      "sha256": "df03526ed2d398b111825613ef388648fec2d89ed8ceac15858ac908796692b0",
+      "bytes": 533668,
+      "state": "ready"
+    },
+    "ru": {
+      "path": "sets/ru.json",
+      "sha256": "e09a7dd213e448dfa88a576f1630f0ba2bd5f0955e66807f61f80d070730b8ff",
+      "bytes": 633900,
+      "state": "ready"
+    },
+    "nl": {
+      "path": "sets/nl.json",
+      "sha256": "335e453d55f56eed0cc1e68c4cd6937baa9b92585da4edbad8f3f701812709e2",
+      "bytes": 531483,
+      "state": "ready"
+    },
+    "pl": {
+      "path": "sets/pl.json",
+      "sha256": "30fbf8e6abd579397aea976553ca2f43179e5b86d8a6566bcd27d345c8a2a129",
+      "bytes": 529679,
+      "state": "ready"
+    },
+    "sv": {
+      "path": "sets/sv.json",
+      "sha256": "79bb90f4d6cb25a2e249fd334ab9b0691f918ee4895f5c77cba94058647607cd",
+      "bytes": 529731,
+      "state": "ready"
+    },
+    "ja": {
+      "path": "sets/ja.json",
+      "sha256": "24fbe579e2f93b8407ce915cd2fae92cfcb0e99f3362e4a2c5fef6747c66a421",
+      "bytes": 587837,
+      "state": "partial"
+    },
+    "zh": {
+      "path": "sets/zh.json",
+      "sha256": "7a55561624cdcf25b86953b43600636619935af532ffdaf61c9eb0487737b981",
+      "bytes": 516721,
+      "state": "partial"
+    },
+    "zh-TW": {
+      "path": "sets/zh-TW.json",
+      "sha256": "d36ee3d44a3cae39bf4f1ab4c5750981f6eb112566fa6ca570db9f536e680d0b",
+      "bytes": 516734,
+      "state": "partial"
+    },
+    "ko": {
+      "path": "sets/ko.json",
+      "sha256": "8fff5823de7f0c61c37cfb9428ac06d6aac0dcaaf3986d58d86bdcaf3f48a200",
+      "bytes": 571567,
+      "state": "ready"
+    },
+    "ar": {
+      "path": "sets/ar.json",
+      "sha256": "bd882077789787b38aa946ee8f6fe4347d1a772de2cf805c9bdb072d0b94f413",
+      "bytes": 596061,
+      "state": "ready"
+    },
+    "tr": {
+      "path": "sets/tr.json",
+      "sha256": "79e16080cfc05c8b79f688a26b96d5d0076be2373328fe34620ff80551c3cdb8",
+      "bytes": 537002,
+      "state": "ready"
+    },
+    "sr": {
+      "path": "sets/sr.json",
+      "sha256": "63a2e9ded5e759af66f0091355407c4c71d1bf7b9fde7cfb5a1394d72ec4806e",
+      "bytes": 521460,
+      "state": "partial"
+    },
+    "hr": {
+      "path": "sets/hr.json",
+      "sha256": "4ec69211d65d8c671dd1183e0182efdb3be59ce815e6fef46ba4e4c0f3b4472c",
+      "bytes": 519938,
+      "state": "ready"
+    },
+    "bs": {
+      "path": "sets/bs.json",
+      "sha256": "53696c896f217d035f5a13e7a3071d844f0b82c47d0b0fb3dfa12319a641b4ac",
+      "bytes": 523074,
+      "state": "ready"
+    },
+    "sk": {
+      "path": "sets/sk.json",
+      "sha256": "0f764d59b23eb80213696298dbde1370da7caee8157c84587e01ee908ce9534d",
+      "bytes": 531898,
+      "state": "ready"
+    },
+    "cs": {
+      "path": "sets/cs.json",
+      "sha256": "5a4fa69cc02529280e06553899310345b46f66137641b5a761c34fb1bff89a4a",
+      "bytes": 525726,
+      "state": "ready"
+    },
+    "el": {
+      "path": "sets/el.json",
+      "sha256": "126061e27a0a96f6c6b117126c1847cda51dc90c7a60b3f5eb7a608103cc7599",
+      "bytes": 668114,
+      "state": "ready"
+    },
+    "hi": {
+      "path": "sets/hi.json",
+      "sha256": "99a3359a2396d4efc3d0054a1b8ec093b1385157cc1abb0a1fbd8a84c2df998d",
+      "bytes": 744570,
+      "state": "ready"
+    },
+    "vi": {
+      "path": "sets/vi.json",
+      "sha256": "25cdcb4c32427c7ac2ef01f718573f296d38d0821459a24ccddc955aa1a43042",
+      "bytes": 576718,
+      "state": "ready"
+    },
+    "th": {
+      "path": "sets/th.json",
+      "sha256": "b4662b1a0de9fd359374691b58c5a21e404237e78555087caf5420d2c4b86a3f",
+      "bytes": 733049,
+      "state": "ready"
+    },
+    "uk": {
+      "path": "sets/uk.json",
+      "sha256": "bcdf191c5a64a96f0f9ba4cd1b44e9bea3f2fc926c92772db20cba4647c16155",
+      "bytes": 628932,
+      "state": "ready"
+    },
+    "ro": {
+      "path": "sets/ro.json",
+      "sha256": "c468bcedcb02e54a3d6dbf09caadb4b23bc90e67ced5529f6cc03518a33139ed",
+      "bytes": 537581,
+      "state": "ready"
+    },
+    "hu": {
+      "path": "sets/hu.json",
+      "sha256": "d933f1f6dcf862e87f76a19d4ad66e5369ef875d0d0006f0e6cfce63cc55def2",
+      "bytes": 531842,
+      "state": "ready"
+    },
+    "fi": {
+      "path": "sets/fi.json",
+      "sha256": "fcec5e1e59820276695167ed8194f002fde046ef736a95e8943369a52595199e",
+      "bytes": 533112,
+      "state": "ready"
+    },
+    "da": {
+      "path": "sets/da.json",
+      "sha256": "eb115aa5a59f779a8495dc231da2d239c9e454a56de9e15c79acd82c243c3d95",
+      "bytes": 527633,
+      "state": "ready"
+    },
+    "no": {
+      "path": "sets/no.json",
+      "sha256": "17d95fa0bae8aa76b6b778c67267b5d269cb166a29fe94c7c520b6d1b35b8b04",
+      "bytes": 522748,
+      "state": "ready"
+    }
+  }
+}
