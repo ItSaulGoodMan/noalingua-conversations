@@ -51,7 +51,7 @@ Names are never translated: a language in another script writes each name once, 
 
 ## The languages
 
-Written in English. Every other language is **machine-translated** by Mozilla's Bergamot engine (the models of Firefox Translations), run offline, and checked by rule: every line is there, every name kept, every number kept. No language model wrote or translated them, and no native speaker has reviewed them yet, so a line may sound unnatural, use the wrong form of address, or a speaker's gender may be wrong in languages that mark it. Corrections are welcome.
+Written in English. Every other language is **machine-translated** by Mozilla's Bergamot engine (the models of Firefox Translations), run offline, and checked by rule: every line is there, every name kept, every number kept. No language model wrote or translated them, and no native speaker has reviewed them yet, so a line may sound unnatural. Since revision 2, each line that says *I* or *you* was translated again inside a sentence naming who says it and to whom ("…", she said to Mrs. Weber.), and the version whose grammar agrees with the speaker's gender and the right form of address was kept, with a few forms put right by rule; in most languages nine in ten such forms now agree, and the formal *you* is the one most often still wrong. Corrections are welcome.
 
 | Language | File | State |
 |---|---|---|

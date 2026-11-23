@@ -2,7 +2,7 @@
   "format": 1,
   "kind": "noalingua-conversations",
   "id": "real-life-300",
-  "revision": 1,
+  "revision": 2,
   "title": "300 Real-Life Conversations",
   "files": {
     "en": {
@@ -13,50 +13,50 @@
     },
     "es": {
       "path": "sets/es.json",
-      "sha256": "4d04abcdf17ae917e125e8fef3be18605c4179583aa0e6737990d0a4d926fe59",
-      "bytes": 538124,
+      "sha256": "9aa938060ebea9ff367596f4105c5e91d146afbb54eba9775bc78b38594bc4de",
+      "bytes": 538374,
       "state": "ready"
     },
     "fr": {
       "path": "sets/fr.json",
-      "sha256": "91b90b1529bff68009efb39d6c12d2ae431076cfd8c1e255d1a8b6c24462531c",
-      "bytes": 547797,
+      "sha256": "1848d03fa8f2c5101131ef6f5b1de35c18046494360c5c81fdd0426bf1105f76",
+      "bytes": 548270,
       "state": "ready"
     },
     "de": {
       "path": "sets/de.json",
-      "sha256": "c8af28a7cbbe55e9cf8d1f925a1059f8422cb57e15372b17cda01120cd93cb6d",
-      "bytes": 541271,
+      "sha256": "6f432227fb85132841afc2505e7015d1e4c74908080adc618f7411880571d6e6",
+      "bytes": 541890,
       "state": "ready"
     },
     "it": {
       "path": "sets/it.json",
-      "sha256": "41d6e4cfbbc7edc4fe6ed5354c9dfa7dbe53eb22a5a4d61984c8538db491b23d",
-      "bytes": 533251,
+      "sha256": "220caf1b014c16f7d5a97b091804fbb1e78079f4f3d60cbdd887377571ebcc36",
+      "bytes": 533372,
       "state": "ready"
     },
     "pt": {
       "path": "sets/pt.json",
-      "sha256": "df03526ed2d398b111825613ef388648fec2d89ed8ceac15858ac908796692b0",
-      "bytes": 533668,
+      "sha256": "91d06595da9fc5fafcdd65c0e9a5fa5ac756b3684277b441dbe5d6e991f1e880",
+      "bytes": 533731,
       "state": "ready"
     },
     "ru": {
       "path": "sets/ru.json",
-      "sha256": "e09a7dd213e448dfa88a576f1630f0ba2bd5f0955e66807f61f80d070730b8ff",
-      "bytes": 633900,
+      "sha256": "37642250313c8f2ab7bfe8aad281e1461e81e60f4f2e6d100ae3a49d9fe1a118",
+      "bytes": 634441,
       "state": "ready"
     },
     "nl": {
       "path": "sets/nl.json",
-      "sha256": "335e453d55f56eed0cc1e68c4cd6937baa9b92585da4edbad8f3f701812709e2",
-      "bytes": 531483,
+      "sha256": "1bb5124743227c50e0b16bedcc023a358015f586ea5bda7b5b161cca76066ced",
+      "bytes": 532420,
       "state": "ready"
     },
     "pl": {
       "path": "sets/pl.json",
-      "sha256": "30fbf8e6abd579397aea976553ca2f43179e5b86d8a6566bcd27d345c8a2a129",
-      "bytes": 529679,
+      "sha256": "1e0431683540162b7a813be7f192bcb56cd9e2b5ba745280e10159e79bb5c23c",
+      "bytes": 530373,
       "state": "ready"
     },
     "sv": {
@@ -97,50 +97,50 @@
     },
     "tr": {
       "path": "sets/tr.json",
-      "sha256": "79e16080cfc05c8b79f688a26b96d5d0076be2373328fe34620ff80551c3cdb8",
-      "bytes": 537002,
+      "sha256": "0a0a8fad6a32059646f1acf7980ec5a950d2bbe11a251b6f07d2eb08ba2e9972",
+      "bytes": 536995,
       "state": "ready"
     },
     "sr": {
       "path": "sets/sr.json",
-      "sha256": "63a2e9ded5e759af66f0091355407c4c71d1bf7b9fde7cfb5a1394d72ec4806e",
-      "bytes": 521460,
+      "sha256": "be722335fc4f26a06fe8629f90399e3672495b554bfaef34a604a03871e67735",
+      "bytes": 521727,
       "state": "partial"
     },
     "hr": {
       "path": "sets/hr.json",
-      "sha256": "4ec69211d65d8c671dd1183e0182efdb3be59ce815e6fef46ba4e4c0f3b4472c",
-      "bytes": 519938,
+      "sha256": "101be1c720776898f2c4f3b7b15ecffd2d2225a1acbced47bbd2be54f1c063e6",
+      "bytes": 520401,
       "state": "ready"
     },
     "bs": {
       "path": "sets/bs.json",
-      "sha256": "53696c896f217d035f5a13e7a3071d844f0b82c47d0b0fb3dfa12319a641b4ac",
-      "bytes": 523074,
+      "sha256": "7873963f0b390419f945b6ffbaf882c488ea305ff856122262c3243a71c77f1c",
+      "bytes": 523643,
       "state": "ready"
     },
     "sk": {
       "path": "sets/sk.json",
-      "sha256": "0f764d59b23eb80213696298dbde1370da7caee8157c84587e01ee908ce9534d",
-      "bytes": 531898,
+      "sha256": "6b6d55bc08373d9f2076952e29155adc53720873368185f52b339858c83c5d5f",
+      "bytes": 532088,
       "state": "ready"
     },
     "cs": {
       "path": "sets/cs.json",
-      "sha256": "5a4fa69cc02529280e06553899310345b46f66137641b5a761c34fb1bff89a4a",
-      "bytes": 525726,
+      "sha256": "02fc94e27e40a1864c8c333db6f9ff73774bf64682e08c215be7d67e3f93702e",
+      "bytes": 525876,
       "state": "ready"
     },
     "el": {
       "path": "sets/el.json",
-      "sha256": "126061e27a0a96f6c6b117126c1847cda51dc90c7a60b3f5eb7a608103cc7599",
-      "bytes": 668114,
+      "sha256": "2a86ca825f0c3224486f977c980ae0925b3f7d246f1f04830711292c74349838",
+      "bytes": 668838,
       "state": "ready"
     },
     "hi": {
       "path": "sets/hi.json",
-      "sha256": "99a3359a2396d4efc3d0054a1b8ec093b1385157cc1abb0a1fbd8a84c2df998d",
-      "bytes": 744570,
+      "sha256": "6f4804f867c0ead719f99b6a529351d5ea55eea2e5858bb9b3edb181c4c2e932",
+      "bytes": 744732,
       "state": "ready"
     },
     "vi": {
@@ -151,26 +151,26 @@
     },
     "th": {
       "path": "sets/th.json",
-      "sha256": "b4662b1a0de9fd359374691b58c5a21e404237e78555087caf5420d2c4b86a3f",
-      "bytes": 733049,
+      "sha256": "92eebe47a0eb46aca9a187a27aed2b5c96fdd364bfc65f259d46af5f75842957",
+      "bytes": 733127,
       "state": "ready"
     },
     "uk": {
       "path": "sets/uk.json",
-      "sha256": "bcdf191c5a64a96f0f9ba4cd1b44e9bea3f2fc926c92772db20cba4647c16155",
-      "bytes": 628932,
+      "sha256": "c3beef306e94f591db061764accccc8c54654d18f4b57a75af44cd83aed6d756",
+      "bytes": 629570,
       "state": "ready"
     },
     "ro": {
       "path": "sets/ro.json",
-      "sha256": "c468bcedcb02e54a3d6dbf09caadb4b23bc90e67ced5529f6cc03518a33139ed",
-      "bytes": 537581,
+      "sha256": "52acf6daf77d1ebb6e5ba176fb712a9bb7dd0fb5e5eb39962167c801ed578e1d",
+      "bytes": 538029,
       "state": "ready"
     },
     "hu": {
       "path": "sets/hu.json",
-      "sha256": "d933f1f6dcf862e87f76a19d4ad66e5369ef875d0d0006f0e6cfce63cc55def2",
-      "bytes": 531842,
+      "sha256": "fb744c5000506c48c2419f25941e849ff173584f3bb8f5716803d239e319cde4",
+      "bytes": 531711,
       "state": "ready"
     },
     "fi": {
