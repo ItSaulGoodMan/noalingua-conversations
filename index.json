@@ -2,7 +2,7 @@
   "format": 1,
   "kind": "noalingua-conversations",
   "id": "real-life-300",
-  "revision": 3,
+  "revision": 4,
   "title": "300 Real-Life Conversations",
   "files": {
     "en": {
@@ -13,14 +13,14 @@
     },
     "es": {
       "path": "sets/es.json",
-      "sha256": "69c3ddbb389556be6ec1224897cb4d4e0a2d571933154e7069bf372edb63641c",
+      "sha256": "1b9bafb3d554926acbfcf6bf2f134ad4e4731c5352396d8f3f3b8104d7fc807b",
       "bytes": 538296,
       "state": "ready"
     },
     "fr": {
       "path": "sets/fr.json",
-      "sha256": "80a43aed4b86528390f46533d9b7a2790b31515e6ce3c7e983cacd7ecf4eb478",
-      "bytes": 548073,
+      "sha256": "c3b83a47b861744868def59d5e3088c73d5fe3f8a0381c751687a0039529518d",
+      "bytes": 548079,
       "state": "ready"
     },
     "de": {
@@ -31,32 +31,32 @@
     },
     "it": {
       "path": "sets/it.json",
-      "sha256": "0c3e86a050bec5352db11f6315ab2d5f44550525f85f8202eed988664920a878",
-      "bytes": 533327,
+      "sha256": "9351f3e2c5feaea402c77b3a5e2929729e7d340a78b4b9cd3c0094eeb057cd97",
+      "bytes": 533323,
       "state": "ready"
     },
     "pt": {
       "path": "sets/pt.json",
-      "sha256": "d6fdee4b3e34b61d70fbc4501a60b8ad2ae02c5258dde009e3065cef091bdf7a",
-      "bytes": 533643,
+      "sha256": "e308eba19d7cda21051dcb223edb68aa0b2cef8cfcc7d63dbc653b1b66b29b29",
+      "bytes": 533652,
       "state": "ready"
     },
     "ru": {
       "path": "sets/ru.json",
-      "sha256": "38553b6986eda47423ad428bac809cc01c65e0cd70126a432366d7e84ea2a3e7",
-      "bytes": 634204,
+      "sha256": "88afbef70cb02b117f840f0aaafbff2ad5081ee35a6e81f4f36d716a40d725db",
+      "bytes": 634262,
       "state": "ready"
     },
     "nl": {
       "path": "sets/nl.json",
-      "sha256": "542753df9ae394a34c8ad3fb7ece76dcb624956d54c071755f3ae6550b509db4",
-      "bytes": 531263,
+      "sha256": "b035879c757a572e050fac358508d4f6d801a592e372d04a1e03c3aeed90c966",
+      "bytes": 531271,
       "state": "ready"
     },
     "pl": {
       "path": "sets/pl.json",
-      "sha256": "c5eabc036ea40149d43e4bcb5bb2d357f22b6bc9bd11c89b09cbe917569a104b",
-      "bytes": 530369,
+      "sha256": "ead81ca8f6845cf4f8fdd7d3351db10bb0bad96530f6de867a1d53092850ae98",
+      "bytes": 530376,
       "state": "ready"
     },
     "sv": {
@@ -67,8 +67,8 @@
     },
     "ja": {
       "path": "sets/ja.json",
-      "sha256": "408dfc1a3c34598663987ba20bfc0a76d16235deb076892b1a44a02197916006",
-      "bytes": 584387,
+      "sha256": "4796e1085cdc870f1a637296ac114284493354139db71ad00541aae72e7fac49",
+      "bytes": 584384,
       "state": "partial"
     },
     "zh": {
@@ -85,86 +85,86 @@
     },
     "ko": {
       "path": "sets/ko.json",
-      "sha256": "6eace9dca529221fa2756d5f400ac5c657787597cf7d2f51f396d0184256aea5",
-      "bytes": 571565,
+      "sha256": "fa1808365e99dc6010b5e96e1208c787a708b8cde6fe7262faaeeae5c088c5e7",
+      "bytes": 571558,
       "state": "ready"
     },
     "ar": {
       "path": "sets/ar.json",
-      "sha256": "e61b1af71f2f4561bda3c8f0797c1eb768c9b497ed678cdbfdc19a9c7780cb54",
-      "bytes": 595981,
+      "sha256": "edec5f90be45c7a3e5a5cb9d40c885c7bee0565ac3d3185eadc3f015f1d419f2",
+      "bytes": 595994,
       "state": "ready"
     },
     "tr": {
       "path": "sets/tr.json",
-      "sha256": "4aa2d5244469cdca304c6572afe0302b12f205ef2b49ccc1c3fc400061da8d55",
-      "bytes": 537077,
+      "sha256": "fcc471517b7c401c6d29b8f95cad5fce0d22d9c107e2d36edad15fc0782484ed",
+      "bytes": 537070,
       "state": "ready"
     },
     "sr": {
       "path": "sets/sr.json",
-      "sha256": "b6d53702bc2dbb6cbafa59f7ffa3cab97e20b81168231c65763d27969239b2af",
-      "bytes": 521665,
+      "sha256": "8813e8c67925b647624c368d55289a596f908d4365612d2ddeb435dad3a3759c",
+      "bytes": 521691,
       "state": "partial"
     },
     "hr": {
       "path": "sets/hr.json",
-      "sha256": "b55e29126cfad3e9c844cdc43b73c9203356e3f6e29dbc6acd8e95056d7d0c6d",
-      "bytes": 520358,
+      "sha256": "d24f5a8234db5e89ce604f5b8b7a4d7397c450c03c999f32e518e34b70f051d7",
+      "bytes": 520370,
       "state": "ready"
     },
     "bs": {
       "path": "sets/bs.json",
-      "sha256": "ccc97411401e7cb4f3995e453be343f1964659c05f750d9e711d21b6f5a59759",
-      "bytes": 523918,
+      "sha256": "95b6d4b5936f61fd8f967d6b2039066cf83b86144637a0e49b97d3bb50f81fec",
+      "bytes": 523939,
       "state": "ready"
     },
     "sk": {
       "path": "sets/sk.json",
-      "sha256": "b498ab439d65fee042e2f92c6af2e6aeb1ad44903e24a1ecca68a6b1833fd0bf",
-      "bytes": 532036,
+      "sha256": "8d803120a660bda7eedf897b9f623797c6904faa1048f134090dc53bc0f3021a",
+      "bytes": 532008,
       "state": "ready"
     },
     "cs": {
       "path": "sets/cs.json",
-      "sha256": "08ec8160d8d90758a806e9202fa87b3afe847dfc5847f80d96bffd2b272af973",
-      "bytes": 525888,
+      "sha256": "2175a0a050fb0fa9d70c7172f19194dea08889572b6feb8277908888d15fe0cd",
+      "bytes": 525889,
       "state": "ready"
     },
     "el": {
       "path": "sets/el.json",
-      "sha256": "d109858749f9f39c9baa66beec59347b0b55ff7b8f1b1b5ac6d657d845d0fa8d",
-      "bytes": 668826,
+      "sha256": "a1ec3193209b7b63468cb549696ae061bd35d912c81618ab05ff516adf0e0380",
+      "bytes": 668819,
       "state": "ready"
     },
     "hi": {
       "path": "sets/hi.json",
-      "sha256": "77a03f61643f0efc1da7607e203233922d3d3508860921d29bdeb6edb0733cc9",
-      "bytes": 744753,
+      "sha256": "53df2ebd0f3999aa6d632431d7dc23627014116f5ff09cdfec0234292e15c7a2",
+      "bytes": 744750,
       "state": "ready"
     },
     "vi": {
       "path": "sets/vi.json",
-      "sha256": "5c105d9564f03459e9464f4c59f9b6615475abee408bb495edf46caf6d3fa61e",
-      "bytes": 577130,
+      "sha256": "c964cd54199a5584cdfb289dee90d04c19f320c3650eb1d93ce2aa4755fd104c",
+      "bytes": 577181,
       "state": "ready"
     },
     "th": {
       "path": "sets/th.json",
-      "sha256": "27195f16ac412e0c5bd6a0538a5e0c697719fd9e6e02595e74aa670c76b73112",
-      "bytes": 732735,
+      "sha256": "8fdc25bf9e9f307a7e080df1332b2c011af2b29761f765916dea43cc5534133e",
+      "bytes": 732827,
       "state": "ready"
     },
     "uk": {
       "path": "sets/uk.json",
-      "sha256": "e39bfba5670ab19295e5c6bc178df0b9227b4fe0a74def85becc33ce3895eb58",
-      "bytes": 629488,
+      "sha256": "e1b5d10d50b4b515c466ad3d1af2c7c0f74eea9cd6a6fcc20ae914a055c80348",
+      "bytes": 629482,
       "state": "ready"
     },
     "ro": {
       "path": "sets/ro.json",
-      "sha256": "19fff963f6920d7802bf2ccf9506e08b9a91e4b1b7678aef4b58d84f349c1700",
-      "bytes": 537929,
+      "sha256": "8d02279daca252e897ebfcba6dff397f9b2e7c3fcb20f5922375529323c4e1ec",
+      "bytes": 537930,
       "state": "ready"
     },
     "hu": {
